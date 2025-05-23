@@ -38,12 +38,12 @@ terraform-ec2-ami/
 ## Configuration and Deployment
 1. Clone the Project
 ```bash
-git clone <repo-url>
+git clone https://github.com/Danny-Flames/terraform-ec2-ami.git
 cd terraform-ec2-ami
 ```
 
 
-2. Create and Edit main.tf
+2. I created and edited main.tf
 I replaced placeholder values like my-key-pair and the AMI ID with actual values from my AWS environment.
 
 ```bash
